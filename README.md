@@ -1,7 +1,7 @@
 # Smart-Aeroponic-Project
 
 ---
-Code to be uploaded
+The rest of the scripts are to be uploaded
 ---
 This is a project to build a solar-powered smart hydroponic system that collect data including temperature, humidity, PH value, conductivity, lighting, in order to adjust the lighting, water pumping frequency, and nutrients. 
 
